@@ -2,6 +2,15 @@
 
 This project is a chatbot application aimed at helping users find job opportunities and get relevant answers to questions about job roles. It leverages Retrieval-Augmented Generation (RAG) to provide personalized job recommendations and answers based on a user's skills, experience, and preferences. The system uses **Azure OpenAI**, **Azure AI Search**, and **Azure PostgreSQL Vector Database** for efficient and accurate search results. The backend is built with **Java** and **Spring Boot**.
 
+## Images
+
+![Alt text](https://github.com/shank250/CareerCanvas-msft-raghack/blob/main/Images/Intro1.png)
+
+
+![Alt text](https://github.com/shank250/CareerCanvas-msft-raghack/blob/main/Images/Query1.png)
+
+
+
 ## Features
 
 - **Job Search**: Users can search for jobs based on their experience, skills, and preferences.
